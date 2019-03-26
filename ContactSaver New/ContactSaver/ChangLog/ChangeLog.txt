@@ -1,0 +1,66 @@
+﻿
+Contact Saver
+	
+	This Is Contact Saver
+ 	Version Alpha
+
+25 FEB, 2019 -> NO MORE NOW BETA.
+
+I will Continue to devolop this through this year, 2018 and 2019
+
+ About Me.
+
+ I am Surojit Paul, a under graduate student(till now) and pursuing my dream, to be a banker.
+ :-)
+ I am Also A hobbeist Coder (may be trying to be one).
+ I stated coding in 1St Year of my graduation.
+
+
+ 
+
+
+Version Log 1.4 :
+
+ April 18, 2018 :
+ Today I Implemented The Back Up File Option. And Created This About From.
+ April 20, 2018
+ Today I Implementd The Draggable From. And Perfecty Working About Screen
+
+
+
+
+
+ Version Log 1.5:
+
+April 20,2018, 8.31 PM
+Icon added.
+AutoUpdate feature added.
+Manual Update got shorcut F2.
+New Search Box added.
+From Now number of Contact will be shown in Menu bar.
+Close App by Double Clicking The Icon :->
+many more...... yet to come...(hope).
+
+
+
+
+
+
+Verson Log 2.0
+
+Feb 25,2019, 10.42 PM
+New Update. More Features...
+New Welcome Screen.
+Now Can Load Multiple .xml File Contains The Contacts From New Welcom Screen and Also From
+Contact Saver File Tab.
+Now Can Create New Contact File From Welcome Screen.
+Optional 'Same as Above' check boss incase of the whatsapp number is same with contact number
+Realocate The Number of contact and serach bar above.
+Custome Dialoge Box Style.
+From Welcome menu just type the file path\name to Open the file.
+Optional Show\Hide Contact lsit menu under File Tab.
+Data Table Remove.(may be back with more option in future).
+New 'Close' and 'Back to Welcome Screen' Button at cornor.
+Now File Name Shows On The Top/Hide if Show Contact is OFF.
+Now Shows File Name On Top.
+Now Lauch with default File and Location and can chage through "set as defalut check box".

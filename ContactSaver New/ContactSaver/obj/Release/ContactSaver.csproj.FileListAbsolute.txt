@@ -1,0 +1,17 @@
+D:\C#\ContactSaver3\ContactSaver\bin\Release\ContactSaver.exe.config
+D:\C#\ContactSaver3\ContactSaver\bin\Release\ContactSaver.exe
+D:\C#\ContactSaver3\ContactSaver\bin\Release\ContactSaver.pdb
+D:\C#\ContactSaver3\ContactSaver\bin\Release\SaveIntoXmlLib.dll
+D:\C#\ContactSaver3\ContactSaver\bin\Release\SaveIntoXmlLib.pdb
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.csprojResolveAssemblyReference.cache
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.AboutScreenForm.resources
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.CustomeDialogBox.resources
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.AllExtraForm.ShowContactsInWelcomeMenu.resources
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.MainForm.resources
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.Properties.Resources.resources
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.welcome.resources
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.csproj.GenerateResource.cache
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.csproj.CoreCompileInputs.cache
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.csproj.CopyComplete
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.exe
+D:\C#\ContactSaver3\ContactSaver\obj\Release\ContactSaver.pdb
